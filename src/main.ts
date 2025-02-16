@@ -2,7 +2,7 @@
 
 import { gustavo } from './classes/classes'
 import './style.css'
-//import { age, id, name } from './types-basic/types-basic'
+//import { name } from './types-basic/types-basic'
 
 //types-basic.ts
 // document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
@@ -15,6 +15,6 @@ import './style.css'
 // `
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-<h1>Hola mundo ${gustavo.age}</h1>
+<h1>Hola mundo ${gustavo.name}</h1>
 `
 

@@ -1,4 +1,5 @@
 export const studentIds:number[] = [1,23,14,54];
+
 studentIds.push(+"6");
 
 interface Student {

@@ -22,6 +22,10 @@ export class Student{
         console.log(`The student ${this.name} now is in the class`)
     }
 
+    activateStudent(){
+        console.log(`The student ${name} has been activated`);
+    }
+
 }
 
 export const gustavo = new Student(1, "Gus", 33);
