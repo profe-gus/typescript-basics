@@ -1,6 +1,7 @@
 //import { studentIds, students } from './objects/objects'
 
 import { gustavo } from './classes/classes'
+//import { gustavo } from './classes/classes-minify'
 import './style.css'
 //import { name } from './types-basic/types-basic'
 
